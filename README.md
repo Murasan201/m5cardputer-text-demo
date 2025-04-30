@@ -2,14 +2,6 @@
 
 A simple Arduino demo that displays custom text on the M5Cardputer’s built-in LCD screen.
 
-## Repository Name
-```
-m5cardputer-text-demo
-```
-
-## Description
-A straightforward example sketch to showcase how to render custom text on the M5Cardputer’s built-in LCD, with the speaker muted.
-
 ## Prerequisites
 
 - Arduino IDE (version 1.8.13 or later)
