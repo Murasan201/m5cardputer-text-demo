@@ -45,7 +45,7 @@ A straightforward example sketch to showcase how to render custom text on the M5
 ## File Structure
 
 ```
-text-test.ino
+m5cardputer_lcd_text_demo.ino
 README.md
 ```
 
